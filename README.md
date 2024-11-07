@@ -1,0 +1,2 @@
+# Apply-the-classification-model-to-the-Red-Wine-Quality-dataset
+Apply classification models ( Logistic Regression, Naïve Bayes and Support Vector Machine ) to the data set related to the red variation of  Portuguese wine "Vinho Verde" (collectively called Red Wine Quality). Handle the problem of data imbalance and analyze how to classify labels so that the accuracy of the model is as high as possible.
